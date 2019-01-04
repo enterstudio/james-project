@@ -42,7 +42,7 @@
         <assertj-3.version>3.3.0</assertj-3.version>
         <es.version>2.2.1</es.version>
         <es-reporter.version>2.2.0</es-reporter.version>
-        <guava.version>18.0</guava.version>
+        <guava.version>24.1.1-jre</guava.version>
         <javax.inject.version>1</javax.inject.version>
         <junit.version>4.11</junit.version>
         <metrics.version>3.2.1</metrics.version>
