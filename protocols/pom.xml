@@ -48,10 +48,10 @@
         <target.jdk>1.6</target.jdk>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <netty.version>3.10.6.Final</netty.version>
-        <apache-mime4j.version>0.8.0</apache-mime4j.version>
+        <apache-mime4j.version>0.8.1</apache-mime4j.version>
         <commons-net.version>3.2</commons-net.version>
         <commons-lang.version>2.6</commons-lang.version>
-        <commons-codec.version>1.7</commons-codec.version>
+        <commons-codec.version>1.13</commons-codec.version>
         <commons-collections.version>3.2.1</commons-collections.version>
         <apache-commons-io.version>1.3.2</apache-commons-io.version>
         <jmock.version>2.5.1</jmock.version>
@@ -161,7 +161,7 @@
             <dependency>
                 <groupId>com.google.guava</groupId>
                 <artifactId>guava</artifactId>
-                <version>18.0</version>
+                <version>30.0-android</version>
             </dependency>
             <dependency>
                 <groupId>io.netty</groupId>
