@@ -42,7 +42,7 @@
         <javax.inject.version>1</javax.inject.version>
         <junit.version>4.10</junit.version>
         <activation.version>1.1.1</activation.version>
-        <commons-collections.version>3.2.1</commons-collections.version>
+        <commons-collections.version>3.2.2</commons-collections.version>
         <commons-io.version>2.4</commons-io.version>
         <commons-lang.version>2.6</commons-lang.version>
         <commons-lang3.version>3.3.2</commons-lang3.version>
@@ -51,7 +51,7 @@
         <maven-artifact.version>3.0-alpha-1</maven-artifact.version>
         <maven-plugin-annotations.version>3.4</maven-plugin-annotations.version>
         <maven-plugin-api.version>3.2.5</maven-plugin-api.version>
-        <maven-reporting-impl.version>2.2</maven-reporting-impl.version>
+        <maven-reporting-impl.version>3.1.0</maven-reporting-impl.version>
         <maven-reporting-api.version>3.0</maven-reporting-api.version>
         <mime4j.version>0.8.0</mime4j.version>
         <qdox.version>1.12.1</qdox.version>
