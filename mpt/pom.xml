@@ -85,7 +85,7 @@
         <james.www.id>mpt-website</james.www.id>
         <target.jdk>1.5</target.jdk>
 
-        <commons-io.version>2.4</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <commons-lang.version>2.6</commons-lang.version>
         <derby.version>10.9.1.0</derby.version>
         <guice.version>4.0</guice.version>
